@@ -11,7 +11,7 @@ $action = isset($_GET['a']) ? $_GET['a'] : "";
   <!--456 -->
     <title>PTTES</title>
 
-    <!-- Bootstrap core CSS -->
+   
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
